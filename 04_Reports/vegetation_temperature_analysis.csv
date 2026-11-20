@@ -1,0 +1,6 @@
+Metric,Value
+Pearson Correlation,-0.191031242739609
+P-value,0.0
+Mean NDVI in Hotspots,0.24075530566705197
+Mean NDVI Outside Hotspots,0.2663454292725991
+Valid Paired Pixels,845072.0
