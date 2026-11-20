@@ -1,0 +1,4 @@
+strategy,trees_funded,green_space_units_100sqm,cool_roof_units_100sqm,tree_expenditure,green_space_expenditure,cool_roof_expenditure,total_expenditure,remaining_budget
+Balanced,1600,20,37,4000000,3000000,2960000,9960000,40000
+Vegetation-led,2000,23,18,5000000,3450000,1440000,9890000,110000
+Built-environment-led,800,13,75,2000000,1950000,6000000,9950000,50000

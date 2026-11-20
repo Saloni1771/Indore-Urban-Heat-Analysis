@@ -1,0 +1,6 @@
+priority,recommendation,evidence,management_action,validation_required
+1,"Prioritise high-heat, low-vegetation zones",High-priority zones identified through LST and NDVI thresholds,Undertake site assessments for tree planting and green-space interventions,"Land availability, ownership, water access and site suitability"
+2,Use a balanced investment portfolio as a pilot,Balanced scenario allocates ₹99.6 lakh across three intervention types,"Pilot tree planting, pocket green spaces and cool-roof treatments",Obtain local quotations and confirm implementation capacity
+3,Compare alternative investment strategies,Vegetation-led and built-environment-led scenarios offer different intervention mixes,"Compare costs, feasibility, maintenance and measured outcomes",Conduct post-intervention temperature and vegetation monitoring
+4,Use zone-level priority scores for resource planning,791 planning zones assessed and 20 highest-ranked zones selected for allocation modelling,Use ranked zones to guide detailed field surveys and phased investment,Verify actual intervention locations and zone boundaries
+5,Build a monitoring and evaluation framework,Satellite analysis provides a baseline for April-May 2025,Repeat satellite analysis and track intervention implementation,"Use comparable seasonal imagery and, where possible, ground measurements"
